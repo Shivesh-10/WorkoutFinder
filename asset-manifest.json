@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WorkoutFinder/static/css/main.20acbc28.css",
+    "main.js": "/WorkoutFinder/static/js/main.4ba51446.js",
+    "static/media/banner.png": "/WorkoutFinder/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/WorkoutFinder/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/WorkoutFinder/index.html",
+    "main.20acbc28.css.map": "/WorkoutFinder/static/css/main.20acbc28.css.map",
+    "main.4ba51446.js.map": "/WorkoutFinder/static/js/main.4ba51446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.4ba51446.js"
+  ]
+}
